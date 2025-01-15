@@ -3,6 +3,9 @@ This bot gives Buying and selling signals for Etherum Trading.<br>
 
 This is a Python program that simulates a trading bot for the ETH/USDT trading pair on the Binance exchange. The bot uses technical analysis indicators to determine whether to buy, sell or hold the trading pair.
 
+## Disclamier
+This trading bot is for educational purposes only and should not be used for real trading. The bot is provided "as is" without warranty of any kind, express or implied. The author is not responsible for any losses or damages that may result from the use of this program
+
 ## INSTALLATION
 1. Clone the repository:
 
@@ -34,5 +37,4 @@ python main.py
 * Volume Weighted Average Price (VWAP): The VWAP indicator calculates the average price of the trading pair over a given time period, weighted by the trading volume. This gives a more accurate picture of the true price of the trading pair, and can help to identify trends.
 * Histogram: The histogram is the difference between the MACD line and the signal line. A positive histogram indicates that the price is increasing, while a negative histogram indicates that the price is decreasing.
 
-## Disclamier
-This trading bot is for educational purposes only and should not be used for real trading. The bot is provided "as is" without warranty of any kind, express or implied. The author is not responsible for any losses or damages that may result from the use of this program
+
