@@ -1,4 +1,4 @@
-# ETH_USDT_Signals_bot
+# ETH-USDT Trading Signal bot
 This bot gives Buying and selling signals for Etherum Trading.<br>
 
 This is a Python program that simulates a trading bot for the ETH/USDT trading pair on the Binance exchange. The bot uses technical analysis indicators to determine whether to buy, sell or hold the trading pair.
